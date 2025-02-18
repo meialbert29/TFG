@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<HealthData locale="en_ES">
+ <ExportDate value="2024-10-16 09:17:22 +0200"/>
+ <Me HKCharacteristicTypeIdentifierDateOfBirth="2003-05-06" HKCharacteristicTypeIdentifierBiologicalSex="HKBiologicalSexFemale" HKCharacteristicTypeIdentifierBloodType="HKBloodTypeNotSet" HKCharacteristicTypeIdentifierFitzpatrickSkinType="HKFitzpatrickSkinTypeNotSet" HKCharacteristicTypeIdentifierCardioFitnessMedicationsUse="None"/>
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Mi Fitness" sourceVersion="10" unit="count/min" creationDate="2024-10-16 08:58:40 +0200" startDate="2024-10-16 00:00:00 +0200" endDate="2024-10-16 01:00:00 +0200" value="52"/>
+ <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Mi Fitness" sourceVersion="10" unit="count/min" creationDate="2024-10-16 08:58:40 +0200" startDate="2024-10-16 00:00:00 +0200" endDate="2024-10-16 01:00:00 +0200" value="64"/>
+ <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Mi Fitness" sourceVersion="10" unit="count/min" creationDate="2024-10-16 08:58:40 +0200" startDate="2024-10-16 00:00:00 +0200" endDate="2024-10-16 01:00:00 +0200" value="82"/>
+ <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Mi Fitness" sourceVersion="10" unit="count/min" creationDate="2024-10-16 08:58:40 +0200" startDate="2024-10-16 01:00:00 +0200" endDate="2024-10-16 02:00:00 +0200" value="100"/>
+ <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Mi Fitness" sourceVersion="10" unit="count/min" creationDate="2024-10-16 08:58:40 +0200" startDate="2024-10-16 01:00:00 +0200" endDate="2024-10-16 02:00:00 +0200" value="120"/>
+ <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Mi Fitness" sourceVersion="10" unit="count/min" creationDate="2024-10-16 08:58:40 +0200" startDate="2024-10-16 02:00:00 +0200" endDate="2024-10-16 03:00:00 +0200" value="160"/>
+ </HealthData>
